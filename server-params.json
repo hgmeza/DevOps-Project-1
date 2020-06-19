@@ -1,0 +1,13 @@
+[ {
+  "ParameterKey": "EnvironmentName",
+  "ParameterValue": "DevOpsProject1"
+},
+{
+  "ParameterKey": "AMI",
+  "ParameterValue": "ami-09d95fab7fff3776c"
+},
+{
+  "ParameterKey": "InstanceType",
+  "ParameterValue": "t3a.medium"
+}
+]
